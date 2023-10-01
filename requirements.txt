@@ -1,0 +1,4 @@
+fastapi
+opencv-python
+Pillow
+numpy
