@@ -1,7 +1,5 @@
 # main.py
 from fastapi import FastAPI, UploadFile, HTTPException
-import torch
-from torchvision import transforms
 import cv2
 from ultralytics import YOLO
 
